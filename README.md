@@ -1,1 +1,1 @@
-# CartoDB is amazing and I love it.
+# CartoDB is incredible and I love it.
